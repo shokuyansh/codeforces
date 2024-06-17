@@ -1,3 +1,4 @@
+//271 A - BEAUTIFUL YEAR
 #include<stdio.h>
 int diff(int year)
 {    int a[4];
